@@ -1,2 +1,3 @@
 # signalremap
-TCL Flip 2 Magisk module that launches another messenger app over com.android.mms. Requires root, check out neutronscott's flip2 repo first.
+I do not plan on maintaining this since it's just a quick fix to launch Signal/Molly.
+Fortunately, you can use the provided code to launch whatever instead as long as you have the name of the package activity. Just replace it in the code and zip the files.
